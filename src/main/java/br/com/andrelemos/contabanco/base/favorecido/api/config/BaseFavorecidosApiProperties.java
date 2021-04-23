@@ -6,6 +6,14 @@ import org.springframework.context.annotation.Configuration;
 import lombok.Getter;
 import lombok.Setter;
 
+/**
+ * Propriedades da aplicacao
+ * 
+ * @author Andre Lemos
+ * @version 1.0.0
+ * @since Release 1
+ *
+ */
 @Getter
 @Setter
 @Configuration

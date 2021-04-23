@@ -7,6 +7,14 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
+/**
+ * Modelo que representa o cabecalho do favorecido
+ * 
+ * @author Andre Lemos
+ * @version 1.0.0
+ * @since Release 1
+ *
+ */
 @ToString
 @Getter
 @Setter

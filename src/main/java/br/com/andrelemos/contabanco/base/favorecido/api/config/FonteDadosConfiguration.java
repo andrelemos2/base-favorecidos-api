@@ -8,6 +8,14 @@ import org.springframework.context.annotation.Configuration;
 
 import com.zaxxer.hikari.HikariDataSource;
 
+/**
+ * Configuracao do Pool de conexoes Hikari DS e Managed Beans (Monitoramento AppDynamics)
+ * 
+ * @author Andre Lemos
+ * @version 1.0.0
+ * @since Release 1
+ *
+ */
 @Configuration
 public class FonteDadosConfiguration {
 

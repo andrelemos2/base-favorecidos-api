@@ -17,6 +17,14 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 
+/**
+ * Entidade que representa uma conta de credito (favorecidos) na base
+ * 
+ * @author Andre Lemos
+ * @version 1.0.0
+ * @since Release 1
+ *
+ */
 @Getter
 @Setter
 @EqualsAndHashCode

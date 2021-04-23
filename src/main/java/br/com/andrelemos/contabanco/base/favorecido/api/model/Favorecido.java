@@ -6,6 +6,15 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 
+
+/**
+ * Modelo que representa um favorecido
+ * 
+ * @author Andre Lemos
+ * @version 1.0.0
+ * @since Release 1
+ *
+ */
 @AllArgsConstructor
 @NoArgsConstructor
 @ToString

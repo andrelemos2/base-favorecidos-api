@@ -10,6 +10,14 @@ import br.com.andrelemos.contabanco.base.favorecido.api.entity.ContaCredito;
 import br.com.andrelemos.contabanco.base.favorecido.api.entity.ContaCreditoPk;
 import br.com.andrelemos.contabanco.base.favorecido.api.model.Favorecido;
 
+/**
+ * Camada para realizar mapeamento ORM da Conta de Credito na base de favorecidos
+ * 
+ * @author Andre Lemos
+ * @version 1.0.0
+ * @since Release 1
+ *
+ */
 public interface ContaCreditoRepository extends CrudRepository<ContaCredito, ContaCreditoPk> {
 
   @Query(

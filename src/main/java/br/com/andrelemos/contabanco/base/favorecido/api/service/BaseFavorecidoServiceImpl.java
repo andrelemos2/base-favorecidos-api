@@ -16,9 +16,17 @@ import br.com.andrelemos.contabanco.base.favorecido.api.repository.ContaCreditoR
 import br.com.andrelemos.contabanco.base.favorecido.api.repository.ContaDebitoRepository;
 import lombok.extern.slf4j.Slf4j;
 
+/**
+ * Servico que contem a regra de negocios para pesquisar um favorecido na base
+ * 
+ * @author Andre Lemos
+ * @version 1.0.0
+ * @since Release 1
+ *
+ */
 @Slf4j
 @Service
-public class FavorecidoServiceImpl implements BaseFavorecidoService {
+public class BaseFavorecidoServiceImpl implements BaseFavorecidoService {
 
   @Autowired private ContaDebitoRepository contaDebitoRepository;
 
