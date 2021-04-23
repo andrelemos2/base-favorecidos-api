@@ -13,3 +13,6 @@ Se você quiser ver a aplicação na sua máquina é somente necessário importa
 
 # Collection V1 Postman para testes
 https://www.getpostman.com/collections/d49fec021b2e74f41691
+
+# Documentação da API (Swagger)
+http://localhost:8080/swagger-ui/#
