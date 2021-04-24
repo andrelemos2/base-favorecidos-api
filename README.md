@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/andrelemos2/base-favorecidos-api.svg?branch=master)](https://travis-ci.org/andrelemos2/base-favorecidos-api)
+
 # Base Favorecidos API (base-favorecidos-api)
 Pesquisa de contatos favorecidos
 
