@@ -11,6 +11,8 @@ Construindo na sua máquina
 
 Se você quiser ver a aplicação na sua máquina é somente necessário importar como projeto MAVEN na sua IDE.
 
+Se preferir pode rodar o comando no diretorio base do projeto `mvn spring-boot:run`
+
 # Collection V1 Postman para testes
 ==========================
 https://www.getpostman.com/collections/d49fec021b2e74f41691
